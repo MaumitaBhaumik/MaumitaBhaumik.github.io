@@ -6,7 +6,7 @@ categories: media
 ---
 ![Netherlands](website_profile.jpg)
 
-*(Zandvoort Beach, the Netherlands, December, 2022)*
+*(Zandvoort Beach, the Netherlands, December, 2022)* ()
 
 
 
