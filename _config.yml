@@ -16,9 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "about.md", title: home}
-  - {title: "Research"}
-  - {title: "Blog", file: "about.md"}
+  - {title: home, file: "about.md"}
+  - {title: CV, file: "Bhaumik.CV"}
+  - {title: "Research", file: "research.md"}
+  - {title: "Blog", file: "Photos"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:im.maumita@gmail.com"}
