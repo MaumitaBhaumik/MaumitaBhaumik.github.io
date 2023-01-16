@@ -24,7 +24,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:moumitaphdlandp19@efluniversity.ac.in"}
   - {title: Github, icon: github, url: "https://github.com/maumitabhaumik"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/maumita-bhaumik-669722156/"}
-  - {title: Google scholar, icon: google-drive, url: "https://scholar.google.com/citations?user=PupexxsAAAAJ&hl=en&oi=ao"}
+  - {title: Google scholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=PupexxsAAAAJ&hl=en&oi=ao"}
   - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Maumita-Bhaumik"}
 
 comments:
