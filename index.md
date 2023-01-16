@@ -5,6 +5,7 @@ mathjax: true
 categories: media
 ---
 ![Netherlands](website_profile.jpg)
+*(Zandvoort beach, December, 2022)*
 
 I am a PhD student in the department of Linguistics at the [English and Foreign Languages University](http://www.efluniversity.ac.in/), Hyderabad, India. Before that I did my Masters in Linguistics from the [Jawaharlal Nehru University](https://www.jnu.ac.in/main/), New Delhi. 
 
