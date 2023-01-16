@@ -7,4 +7,4 @@ categories: media
 
 ![Netherlands](website_profile.jpg)
 
-I am PhD student in the department of Linguistics at the EFL University, Hyderabad, India. 
+I am a PhD student in the department of Linguistics at the English and Foreign Languages University, Hyderabad, India. 
