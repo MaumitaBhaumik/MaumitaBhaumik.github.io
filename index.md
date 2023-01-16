@@ -8,6 +8,10 @@ categories: media
 |:--:| 
 | *Zandvoort Beach, the Netherlands, December, 2022* |
 
+
+<img src="/img/{{ include.file }}" alt="{{ include.description }}">  
+<span class="caption">{{ include.description }}</span>
+
 {%
     include image.html 
     src="website_profile.jpg" 
