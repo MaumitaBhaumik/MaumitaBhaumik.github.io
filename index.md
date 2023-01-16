@@ -5,6 +5,6 @@ mathjax: true
 categories: media
 ---
 
-![Netherlands](IMG-7777.jpg)
+![Netherlands](website_profile.jpg)
 
 I am PhD student in the department of Linguistics at the EFL University, Hyderabad
