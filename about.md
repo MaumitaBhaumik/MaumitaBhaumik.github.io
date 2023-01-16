@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: About
 ---
 
 I am PhD student of Linguistics at the EFL University, Hyderabad
