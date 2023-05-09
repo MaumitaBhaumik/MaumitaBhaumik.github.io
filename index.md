@@ -16,4 +16,5 @@ Among many other areas of the psychology of language, I am particularly interest
 I have experience working with preschool children and adults. So far, I have worked only using behavioral experiments. However, I am keen on learning using other techniques, such as brain imaging. 
 
 This website is new, and I am still building it. The above is a gist of my current interests. You can also view my CV in the CV section above. 
+
 I hope you will be able to view a better version of this website very soon! 
