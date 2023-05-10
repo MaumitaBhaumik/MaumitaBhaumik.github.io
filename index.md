@@ -15,4 +15,4 @@ I have experience working with preschool children and adults. So far, I have wor
 
 This website is new, and I am still building it. You can view my CV in the CV section above. 
 
-I hope you will be able to view a better version of this website very soon! 
+I hope you will be able to see a better version of this website very soon! 
