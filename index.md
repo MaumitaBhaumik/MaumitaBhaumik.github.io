@@ -9,8 +9,8 @@ categories: media
 
 I am a fifth year Ph.D. student in the Department of Linguistics and Contemporary English at the [English and Foreign Languages University](http://www.efluniversity.ac.in/), Hyderabad, India. Earlier, I was an M.A. student in Linguistics at the [Jawaharlal Nehru University](https://www.jnu.ac.in/main/), New Delhi. 
 
-My passion for Linguistics began when I discovered the field during my undergraduate education in the English language. I am interested in almost everything about language. However, the study of the Psychology of Language intrigues me the most. I am particularly interested in understanding how we communicate meaning in conversation. 
-Further, I am curious to know in depth about the relation between language and general human cognition, and about how these faculties aid each other in their development.  
+My passion for Linguistics began when I discovered the field during my undergraduate education in the English language. I am interested in almost everything about language. However, the study of the Psychology of Language intrigues me the most. I am particularly interested in understanding how we interpret meaning in conversation. The intricate interplay between semantics and pragmatics in meaning decoding is fascinating! 
+I am also curious to know in depth about the relation between language and general human cognition, and about how these faculties aid each other in their development. 
 
 I have experience working with preschool children and adults. So far, I have worked only using behavioral experiments. However, I am keen on learning using the more advanced techniques.  
 
