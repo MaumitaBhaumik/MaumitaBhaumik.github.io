@@ -8,7 +8,9 @@ title: CV
 
 <html>
   <body>
+  <p>
   <img align="right" width="300" height="396" src="https://github.com/maumitabhaumik/maumitabhaumik.github.io/blob/master/CV_photo.jpg">
+  </p>
   </body>
 </html>
 
