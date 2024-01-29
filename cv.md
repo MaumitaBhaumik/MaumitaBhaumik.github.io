@@ -8,7 +8,7 @@ title: CV
 
 Click the above link to view my CV            
 
-<img align="top right" src="CV_photo.jpg" width="300" height="396">
+<img align="right" src="CV_photo.jpg" width="300" height="396">
 
 
 
