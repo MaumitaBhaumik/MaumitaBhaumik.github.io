@@ -8,4 +8,11 @@ title: CV
 
 Click the above link to view my CV
 
-![Hyderabad](CV_photo.jpg)<img src="https://your-image-url.type" width="20" height="20">
+
+<img src="CV_photo.jpg" width="20" height="20">
+
+
+
+
+
+![Hyderabad](CV_photo.jpg)
