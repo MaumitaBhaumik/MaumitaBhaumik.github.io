@@ -10,6 +10,7 @@ title: CV
 
 <h4>Click the above link to view my CV</h4>
 
+![hyd](CV_photo.jpg){: .callout}
 
 
 
