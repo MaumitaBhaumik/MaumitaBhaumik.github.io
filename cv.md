@@ -13,6 +13,3 @@ Click the above link to view my CV
 
 
 
-
-
-![Hyderabad](CV_photo.jpg)
