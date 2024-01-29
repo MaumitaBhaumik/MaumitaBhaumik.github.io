@@ -8,7 +8,7 @@ title: CV
 
 <img align="right" width="250" height="330" src="https://github.com/maumitabhaumik/maumitabhaumik.github.io/blob/master/CV_photo.jpg">
 
-<h5>Click the above link to view my CV</h5> 
+<h4>Click the above link to view my CV</h4> 
 
 
 
