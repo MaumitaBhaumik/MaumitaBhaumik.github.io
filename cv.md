@@ -11,7 +11,6 @@ title: CV
 <h4>Click the above link to view my CV</h4> 
 
 
-text|![hyd](CV_photo.jpg)
 
 
 
