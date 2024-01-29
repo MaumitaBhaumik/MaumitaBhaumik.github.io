@@ -10,7 +10,7 @@ title: CV
 
 <h4>Click the above link to view my CV</h4>
 
-![Hyderabad](CV_photo.jpg)
+![Hyderabad](CV_photo.jpg align="right" width="250" height="330")
 
 
 
