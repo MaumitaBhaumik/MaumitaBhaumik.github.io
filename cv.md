@@ -8,4 +8,4 @@ title: CV
 
 Click the above link to view my CV
 
-![Hyderabad](profile_photo_IMG_1588.jpg)
+![Hyderabad](CV_photo.jpg)
