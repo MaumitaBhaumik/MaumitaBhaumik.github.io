@@ -9,7 +9,7 @@ title: CV
 Click the above link to view my CV
 
 
-<img src="CV_photo.jpg" width="20" height="20">
+<img src="CV_photo.jpg" width="80" height="100">
 
 
 
