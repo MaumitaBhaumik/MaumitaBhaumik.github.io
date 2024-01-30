@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Projects
 ---
 
 <h2> 1. Children's interpretation of disjunction </h2>
