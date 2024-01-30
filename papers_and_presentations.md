@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: papers
+title: Papers
 ---
 
 Page under construction...
