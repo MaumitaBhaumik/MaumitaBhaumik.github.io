@@ -3,4 +3,6 @@ layout: page
 title: Research
 ---
 
-page under construction...
+Project 1: Dissertation 
+[Children's interpretation of disjunction]()
+This is my thesis topic towards completing my doctoral degree. 
