@@ -20,7 +20,7 @@ title: CV
 <head>
 <style>
 img {
-  width: 100%;
+  width: 90%;
 }
 </style>
 </head>
