@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-<h3> <span style="color: #5DADE2;">1. Children's derivation of implicature involving disjunction (or)</span> </h3> 
+<h3> <span style="color: #0000FF;">1. Children's derivation of implicature involving disjunction (or)</span> </h3> 
 
 This is the topic of my _dissertation_ toward completing my doctoral degree...
 
