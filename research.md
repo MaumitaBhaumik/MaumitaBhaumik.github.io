@@ -7,7 +7,8 @@ title: Projects
 
 This is the topic of my _dissertation_ toward completing my doctoral degree...
 
-<span style="color: #00FFFF;">Because it saw the salad dressing!</span>
+
+<h3> 2. Processing of scalar implicature: default or derived? </h3>
 
 
 <h3> 3. Disjunction expressions in Indian languages: Usage of conditional morphemes </h3>
