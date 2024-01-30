@@ -26,9 +26,9 @@ img {
 </head>
 <body>
 
-<img src="CV_photo.jpg" alt="HTML5 Icon" width="128" height="128">
+<img src="CV_photo.jpg" alt="HTML5 Icon" width="128" height="169">
 
-<img src="CV_photo.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
+<img src="CV_photo.jpg" alt="HTML5 Icon" style="width:128px;height:169px;">
 
 </body>
 </html>
