@@ -20,7 +20,3 @@ This is the topic of my _dissertation_ toward completing my doctoral degree...
 <h3> 3. Disjunction expressions in Indian languages: Usage of conditional morphemes </h3>
 
 
-
-
-
-<h3> 4. Epistemic reasoning in pragmatic processing </h3> 
