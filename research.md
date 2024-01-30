@@ -5,7 +5,7 @@ title: Projects
 
 <h3> 1. Children's interpretation of disjunction (or) </h3> 
 
-This is the topic of my dissertation toward completing my doctoral degree...
+This is the topic of my _dissertation_ toward completing my doctoral degree...
 
 
 
