@@ -15,6 +15,23 @@ title: CV
 <h4>Click the above link to view my CV</h4> 
 
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  width: 100%;
+}
+</style>
+</head>
+<body>
+
+<img src="CV_photo.jpg" alt="HTML5 Icon" width="128" height="128">
+
+<img src="CV_photo.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
+
+</body>
+</html>
 
 
 
