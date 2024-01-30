@@ -7,7 +7,7 @@ title: CV
 
 <html>
   <body>
-  <img align="right" width="300" height="396" src="/CV_photo.jpg">
+  <img align="right" width="300" height="350" src="/CV_photo.jpg">
   </body>
 </html>
 
