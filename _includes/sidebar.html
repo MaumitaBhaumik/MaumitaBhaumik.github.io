@@ -8,7 +8,7 @@
     {%- assign title = item.title | default: node.title -%}
     {%- assign icon = item.icon | default: item.sidebaricon -%}
     <a aria-label="{{ title }}" href="{{ url | relative_url }}" {% if url == page.url %}class="selected"{% endif %}>
-      <svg aria-hidden="true" class="icon"><use xlink:href="{{ "icons8-home-600.png" | relative_url }}#{{ icon }}"></use></svg> 
+      <svg aria-hidden="true" class="icon"><use xlink:href="{{ "/icons8-home-600.png" | relative_url }}#{{ icon }}"></use></svg> 
       <span aria-hidden="true">{{ title }}</span>  #/assets/fontawesome/icons.svg(maumita changed it for favicon)
     </a>
   {%- endfor -%}
@@ -18,8 +18,8 @@
     {%- assign title = item.title | default: node.title -%}
     {%- assign icon = item.icon | default: item.sidebaricon -%}
     <a aria-label="{{ title }}" href="{{ url | relative_url }}" {% if url == page.url %}class="selected"{% endif %}>
-      <svg aria-hidden="true" class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ icon }}"></use></svg>
-      <span aria-hidden="true">{{ title }}</span>
+      <svg aria-hidden="true" class="icon"><use xlink:href="{{ "/icons8-home-600.png" | relative_url }}#{{ icon }}"></use></svg>
+      <span aria-hidden="true">{{ title }}</span> #/assets/fontawesome/icons.svg(maumita changed it for favicon)
     </a>
   {%- endfor -%}
   </nav>
