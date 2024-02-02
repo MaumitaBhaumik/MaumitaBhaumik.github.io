@@ -6,7 +6,7 @@ categories: media
 ---
 
 
-![Netherlands] <img width="300" height=“300” src=“/DP.png>
+<img width="300" height=“300” src=“/DP.png>
 *(Zandvoort beach, December, 2022)*
 
 
