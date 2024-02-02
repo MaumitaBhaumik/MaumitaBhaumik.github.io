@@ -8,7 +8,7 @@ categories: media
 
  <html>
   <body>
-  <img align="right" width="300" height=“300” src=“/DP.png>
+  <img width="300" height=“300” src=“/DP.png>
   </body>
 </html>
 
