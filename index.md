@@ -1,8 +1,6 @@
 ---
 layout: page
 title: About me
-mathjax: true
-categories: media
 ---
 
 
