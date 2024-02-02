@@ -4,12 +4,7 @@ title: About me
 ---
 
 
-<html>
-  <body>
-  <img width="300" height=“300” src=“/DP.png>
-  </body>
-</html>
-
+![Netherlands](website_profile.jpg)
 *(Zandvoort beach, December, 2022)*
 
 
