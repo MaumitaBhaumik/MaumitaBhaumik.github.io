@@ -6,7 +6,7 @@ title: About me
 
 <html>
   <body>
-  <img width="300" height=“300” src=“/website_profile.jpg>
+  <img width="300" height=“300” src=“website_profile.jpg>
   </body>
 </html>
 *(Zandvoort beach, December, 2022)*
