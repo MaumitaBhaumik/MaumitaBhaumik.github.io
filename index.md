@@ -4,7 +4,7 @@ title: About me
 ---
 
 
-<a href=“/DP.png“><img src=“/“DP.png width="310" height="300" border="0"></a>
+<a href=“/DP.png“><img src=“/“DP.png width="400" height="320" border="0"></a>
 *(Zandvoort beach, December, 2022)*
 
 
