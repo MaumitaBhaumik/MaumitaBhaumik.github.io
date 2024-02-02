@@ -4,14 +4,19 @@ title: About me
 mathjax: true
 categories: media
 ---
-![Netherlands](website_profile.jpg)
-*(Zandvoort beach, December, 2022)*
+
 
 <html>
   <body>
   <img align="right" width="300" height=“300” src=“/DP.png>
   </body>
 </html>
+
+
+
+![Netherlands](website_profile.jpg)
+*(Zandvoort beach, December, 2022)*
+
 
 I am a fifth year Ph.D. student in the Department of Linguistics and Contemporary English at the [English and Foreign Languages University](http://www.efluniversity.ac.in/), Hyderabad, India. Earlier, I was an M.A. student in Linguistics at the [Jawaharlal Nehru University](https://www.jnu.ac.in/main/), New Delhi. 
 
