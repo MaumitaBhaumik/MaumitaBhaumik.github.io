@@ -10,9 +10,9 @@ title: About me
 
 <html>
   <body>
-  <img width="600" height="460" src="/Profile_DP.jpg">
+  <img width="600" height="465" src="/Profile_DP.jpg">
   </body>
-</html> *(Zandvoort beach, December, 2022)*
+</html> 
 
 
 
