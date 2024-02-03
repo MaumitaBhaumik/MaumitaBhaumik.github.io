@@ -10,7 +10,7 @@ title: About me
 
 <html>
   <body>
-  <img width="300" height=“300” src=“/DP.jpg”>
+  <img align="right" width="300" height="343" src="/CV_photo.jpg">
   </body>
 </html>
 
