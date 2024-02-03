@@ -9,7 +9,7 @@ title: About me
   </body>
 </html> 
 
-I am a fifth year Ph.D. student in the Department of Linguistics and Contemporary English at the [English and Foreign Languages University](http://www.efluniversity.ac.in/), Hyderabad, India. I am advised by [Prof Shruti Sircar](https://scholar.google.com/citations?user=qYLLngoAAAAJ&hl=en), [Dr Utpal Lahiri](https://scholar.google.co.in/citations?user=xowc0GUAAAAJ&hl=en), and [Dr Meena Debashish](https://www.efluniversity.ac.in/Dr.MeenaC.Debashish.php). I completed my M.A. in Linguistics from the [Jawaharlal Nehru University](https://www.jnu.ac.in/main/), New Delhi in 2019. 
+I am a fifth year Ph.D. student in the Department of Linguistics and Contemporary English at the [English and Foreign Languages University](http://www.efluniversity.ac.in/), Hyderabad, India. For my dissertation, I am advised by [Prof Shruti Sircar](https://scholar.google.com/citations?user=qYLLngoAAAAJ&hl=en), [Dr Utpal Lahiri](https://scholar.google.co.in/citations?user=xowc0GUAAAAJ&hl=en), and [Dr Meena Debashish](https://www.efluniversity.ac.in/Dr.MeenaC.Debashish.php). I completed my M.A. in Linguistics from the [Jawaharlal Nehru University](https://www.jnu.ac.in/main/), New Delhi in 2019. 
 
 My passion for Linguistics began when I discovered the field during my undergraduate education in the English language. I am interested in almost everything about language. However, the study of the Psychology of Language intrigues me the most. I am particularly interested in understanding how we interpret meaning in conversation. The intricate interplay between semantics and pragmatics in meaning decoding is fascinating! I study the comprehension of ubiquitous logical words, such as connectives and quantifiers, in both children and adults. 
 
