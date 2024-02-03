@@ -2,12 +2,10 @@
 layout: page
 title: About me
 ---
-
-
 <html>
   <body>
     <img width="505" height="390" src="/Profile_DP.jpg" alt="My Image">
-    <figcaption><span style="font-size:0.7em;"> _(Zandvoort beach, December, 2022)_ </span></figcaption>
+    <figcaption><span style="font-size:0.7em;">(Zandvoort beach, December, 2022)</span></figcaption>
   </body>
 </html> 
 
