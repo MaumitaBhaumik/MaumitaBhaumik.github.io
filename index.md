@@ -10,7 +10,7 @@ title: About me
 
 <html>
   <body>
-  <img width="300" height="343" src="/Profile_DP.jpg">
+  <img width="550" height="450" src="/Profile_DP.jpg">
   </body>
 </html>
 
