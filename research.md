@@ -18,10 +18,10 @@ For my _Ph.D._ _dissertation_, I am looking into...
   </body>
 </html>
 
-<h3> <span style="color: #3498DB ;">2. Processing scalar implicature </span> </h3>
+<h2> <span style="color: #3498DB ;">Processing scalar implicature </span> </h2>
 
 
-<h3> <span style="color: #3498DB ;">3. Disjunction expressions in Indian languages: Usage of conditional morphemes </span> </h3>
+<h2> <span style="color: #3498DB ;">Disjunction expressions in Indian languages: Usage of conditional morphemes </span> </h2>
 
 
 
