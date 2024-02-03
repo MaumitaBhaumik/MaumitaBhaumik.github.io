@@ -9,7 +9,7 @@ title: About me
 
 
   <body>
-  <img width=50% height=50% src=“maumitabhaumik.github.io/DP.png" alt="Logo">
+  <img width=50% height=50% src=“maumitabhaumik.github.io/DP.jpg">
   </body>
 
 
