@@ -8,7 +8,7 @@ title: CV
 <html>
   <body>
   <img align="right" width="300" height="343" src="/CV_photo.jpg">
-  <figcaption><span style="font-size:0.7em;">(Hyderabad, 2024)</span></figcaption>
+  <figcaption>(Hyderabad, 2024)</figcaption>
   </body>
 </html>
 
