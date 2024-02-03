@@ -3,12 +3,13 @@ layout: page
 title: About me
 ---
 
-*(Zandvoort beach, December, 2022)*
+
 <html>
   <body>
   <img align="left" width="480" height="370" src="/Profile_DP.jpg">
   </body>
 </html> 
+*(Zandvoort beach, December, 2022)*
 
 I am a fifth year Ph.D. student in the Department of Linguistics and Contemporary English at the [English and Foreign Languages University](http://www.efluniversity.ac.in/), Hyderabad, India. Earlier, I was an M.A. student in Linguistics at the [Jawaharlal Nehru University](https://www.jnu.ac.in/main/), New Delhi. 
 
