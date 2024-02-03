@@ -7,7 +7,7 @@ title: About me
 <html>
   <body>
   <kbd> <img width="505" height="390" src="/Profile_DP.jpg" alt="My Image"> </kbd>
-    <figcaption><span style="font-size:0.2em;">(Zandvoort beach, December, 2022)</span></figcaption>
+    <figcaption><span style="font-size:0.6em;">(Zandvoort beach, December, 2022)</span></figcaption>
   </body>
 </html> 
 
