@@ -9,7 +9,7 @@ title: About me
 
 
   <body>
-  <img width="300" height=“300” src=“/DP.png>
+  <img width=50% height=50% src=“/DP.png>
   </body>
 
 
