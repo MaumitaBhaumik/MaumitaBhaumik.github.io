@@ -3,10 +3,7 @@ layout: page
 title: About me
 ---
 
-
-![Netherlands](website_profile.jpg)
 *(Zandvoort beach, December, 2022)*
-
 
 <html>
   <body>
