@@ -13,7 +13,7 @@ I am a fifth year Ph.D. student in the Department of Linguistics and Contemporar
 
 My research focuses on children's acquisition of language with special attention to their meaning comprehension in verbal communication. However, my interest is not limited to studying children. I am equally intrigued by the intricate faculty of meaning comprehension and communication in grown adults. The intricate interplay between semantics and pragmatics in meaning decoding is fascinating to me! I study the comprehension of ubiquitous logical words, such as connectives (_and, or, if-then_) and quantifiers (_all, some_), and I use experimental methods to study their comprehension. 
 
-I am also curious to know in depth about the relation between language and general human cognition, and about how these faculties aid each other in their development. Particularly the relation between pragmatic meaning comprehension and the human ability of theory of mind fascinates me.
+I study the logical operators because they provide us a window into the complex relation between language faculty and general human cognition. I seek to understand how these faculties aid each other in their development. Particularly the relation between pragmatic meaning comprehension and the human ability of theory of mind fascinates me.
 
 I generally work using behavioral experiments. However, I am keen on learning using the more advanced techniques.  
 
