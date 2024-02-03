@@ -5,7 +5,7 @@ title: Projects
 
 <h3> <span style="color: #3498DB ;">1. Children's derivation of implicature involving disjunction (or)</span> </h3> 
 
-For my Ph.D. _dissertation_, I am looking into...
+For my _Ph.D._ _dissertation_, I am looking into...
 
 
 <h3> <span style="color: #3498DB ;">2. Processing scalar implicature </span> </h3>
