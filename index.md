@@ -8,7 +8,12 @@ title: About me
 *(Zandvoort beach, December, 2022)*
 
 
+<html>
+  <body>
   <img width="300" height=“300” src=“/DP.jpg”>
+  </body>
+</html>
+
 
 
 
