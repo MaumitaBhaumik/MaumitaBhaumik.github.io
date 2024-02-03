@@ -7,7 +7,7 @@ title: About me
 
 <html>
   <body>
-  <img width="600" height="465" src="/Profile_DP.jpg">
+  <img width="480" height="372" src="/Profile_DP.jpg">
   </body>
 </html> 
 
