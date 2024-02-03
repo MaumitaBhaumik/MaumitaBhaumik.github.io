@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Research projects
 ---
 
 <h3> <span style="color: #3498DB ;">1. Children's derivation of implicature involving disjunction: (or)</span> </h3> 
