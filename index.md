@@ -9,7 +9,7 @@ title: About me
   </body>
 </html> 
 
-Hello! I am a fifth year Ph.D. student in the Department of Linguistics and Contemporary English at the [English and Foreign Languages University](http://www.efluniversity.ac.in/), Hyderabad, India. For my research, I am advised by [Prof Shruti Sircar](https://scholar.google.com/citations?user=qYLLngoAAAAJ&hl=en), [Dr Utpal Lahiri](https://scholar.google.co.in/citations?user=xowc0GUAAAAJ&hl=en), and [Dr Meena Debashish](https://www.efluniversity.ac.in/Dr.MeenaC.Debashish.php). In 2019, I completed my M.A. in Linguistics from the [Jawaharlal Nehru University](https://www.jnu.ac.in/main/), New Delhi. 
+Hello! I am a fifth year Ph.D. student in the Department of Linguistics and Contemporary English at the [English and Foreign Languages University](http://www.efluniversity.ac.in/), Hyderabad, India. For my research, I am advised by Prof Shruti Sircar, Dr Utpal Lahiri, and Dr Meena Debashish. In 2019, I completed my M.A. in Linguistics from the [Jawaharlal Nehru University](https://www.jnu.ac.in/main/), New Delhi. 
 
 My research focuses on children's acquisition of language with special attention to their comprehension of meaning in verbal communication. However, my interest is not limited to studying children. I am equally intrigued by the study of meaning comprehension in grown adults. The intricate interplay between semantics and pragmatics in meaning decoding is fascinating to me! I study the comprehension of ubiquitous logical words, such as connectives (_and, or, if-then_) and quantifiers (_some, all, every_), and I use experimental methods to study their comprehension. 
 
