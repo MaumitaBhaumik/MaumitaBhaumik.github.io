@@ -5,7 +5,7 @@ title: Research projects
 
  &nbsp;  
  
-<h3> <span style="color: #3498DB ;">Children's derivation of implicature involving disjunction (or)</span> </h3> 
+<h4> <span style="color: #3498DB ;">Children's derivation of implicature involving disjunction (or)</span> </h4> 
 
 For my _Ph.D._ _dissertation_, I am looking into Bengali children's comprehension of the disjunction word _or_. My work is informed by the current literature on children's pragmatic acquisition, especially their acquisition of the scalar implicature, and is influenced by the ideas of the Relevance Theory (Sperber & Wilson, 1986/1995). My research question is whether preschool children can derive scalar implicature from disjunctive sentences if they are well-supported by contextual information. To answer the question, I am using experimental techniques (mostly behavioral) which are geared toward bringing maximum relevance to the children in the studies. My work also incorporates knowledge from the work done on the Theory of Mind.  Below, I have added a list of references to give you a preliminary idea about the nature and scope of my work: 
 - Barner, D., Brooks, N., & Bale, A. (2011). Accessing the unsaid: The role of scalar alternatives in children’s pragmatic inference. Cognition, 118(1), 84–93. https://doi.org/10.1016/j.cognition.2010.10.010
@@ -19,7 +19,7 @@ For my _Ph.D._ _dissertation_, I am looking into Bengali children's comprehensio
 
  &nbsp;    
 
-<h3> <span style="color: #3498DB ;">Processing scalar implicature </span> </h3> 
+<h4> <span style="color: #3498DB ;">Processing scalar implicature </span> </h4> 
 In this project, I am exploring implicature processing in adults. My interest is to figure out whether implicature derivation is cognitively costly. I hypothesize that the effort for processing scalar implicature is the same as the computation of the logical meaning. It is because every meaning - be it lower-bounded (logical) or upper-bounded (implicature) - is not removed from context, and contextual information is not actively sought by a listener; rather it is a given as a cognitive environment. Please have a look at the following list to get an idea of the scope of the research. 
 - Bott, L., & Noveck, I.A. (2004). Some utterances are underinformative: The onset and time course of scalar inferences. Journal of Memory and Language, 51(3):437–457. https://doi.org/10.1016/j.jml.2004.05.006
 - De Neys, W., & Schaeken, W. (2007). When people are more logical under cognitive load: Dual task impact on scalar implicature. Experimental Psychology, 54(2),128–133. https://doi.org/10.1027/1618-3169.54.2.128
@@ -33,7 +33,7 @@ In this project, I am exploring implicature processing in adults. My interest is
 
 
 
-<h3> <span style="color: #3498DB ;">Disjunction expressions in Indian languages: Usage of conditional morphemes </span> </h3>
+<h4> <span style="color: #3498DB ;">Disjunction expressions in Indian languages: Usage of conditional morphemes </span> </h4>
 
 
 
