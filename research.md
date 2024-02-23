@@ -18,12 +18,14 @@ For my _Ph.D._ _dissertation_, I am looking into Bengali children's comprehensio
 
 
 <h3> <span style="color: #3498DB ;">Processing scalar implicature </span> </h3> 
-In this project, I am exploring the manner of adults' implicature processing. My major interest is to figure out whether implicature derivation is cognitively costly. My hypothesis is that implicature computation is as costly as the computation of logical meaning, because every meaning - be it lower-bounded (logical) or upper-bounded (implicature) - is not removed from context, and contextual information is not actively sought by a listener; rather it is a given as a cognitive environment. Please have a look the following list to get an idea of the scope of the research. 
+In this project, I am exploring implicature processing in adults. My interest is to figure out whether implicature derivation is cognitively costly. I hypothesize that the effort for processing scalar implicature is the same as the computation of the logical meaning. It is because every meaning - be it lower-bounded (logical) or upper-bounded (implicature) - is not removed from context, and contextual information is not actively sought by a listener; rather it is a given as a cognitive environment. Please have a look at the following list to get an idea of the scope of the research. 
 - Bott, L., & Noveck, I.A. (2004). Some utterances are underinformative: The onset and time course of scalar inferences. Journal of Memory and Language, 51(3):437–457. https://doi.org/10.1016/j.jml.2004.05.006
 - De Neys, W., & Schaeken, W. (2007). When people are more logical under cognitive load: Dual task impact on scalar implicature. Experimental Psychology, 54(2),128–133. https://doi.org/10.1027/1618-3169.54.2.128
 - Degen, J., & Tanenhaus, M.K. (2015). Processing scalar implicature: A constraint-based approach. Cognitive science, 39(4), 667 710.https://doi.org/10.1111/cogs.12171
 - Huang, Y.T., & Snedeker, J. (2009). Online interpretation of scalar quantifiers: Insight into the semantics-pragmatics interface. Cognitive Psychology, 58, 376–415. https://doi.org/10.1016/j.cogpsych.2008.09.001
 - Politzer-Ahles, S., & Fiorentino, R. (2013). The realization of scalar inferences: Context sensitivity without processing cost. PloS One, 8(5), e63943. https://doi.org/10.1371/journal.pone.0063943
+- Sperber, D., & Wilson, D. (1995). Relevance: Communication and cognition, 2nd ed (pp. viii, 326). Blackwell Publishing.
+
 
 
 
