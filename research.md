@@ -5,7 +5,7 @@ title: Research projects
 
  &nbsp;  
  
-<h2> <span style="color: #3498DB ;">Children's comprehension of exclusivity implicature </span> </h2> 
+<h2> <span style="color: #3498DB ;">Children's comprehension disjunction (_or_) </span> </h2> 
 
 For my _Ph.D._ _dissertation_, I am looking into Bengali children's comprehension of the disjunction word _or_. My work is informed by the current literature on children's pragmatic acquisition, especially the acquisition of the scalar implicature, and is influenced by the ideas of the Relevance Theory (Sperber & Wilson, 1986/1995). My research question is whether preschool children can derive scalar implicature from disjunctive sentences if they are well-supported by contextual information. To answer the question, I am using experimental techniques (mostly behavioral) which are geared toward bringing maximum relevance to the children in the studies. My work also incorporates knowledge from the research done on the Theory of Mind.  Below, I have added a list of references to give you a preliminary idea about the nature and scope of my work: 
 - Barner, D., Brooks, N., & Bale, A. (2011). Accessing the unsaid: The role of scalar alternatives in children’s pragmatic inference. Cognition, 118(1), 84–93. https://doi.org/10.1016/j.cognition.2010.10.010
