@@ -14,6 +14,8 @@ For my _Ph.D._ _dissertation_, I am looking into Bengali children's comprehensio
 - Papafragou, A., & Tantalou, N. (2004). Children’s Computation of Implicatures. Language Acquisition: A Journal of Developmental Linguistics, 12(1), 71–82. https://doi.org/10.1207/s15327817la1201_3
 - Skordos, D., & Papafragou, A. (2016). Children’s derivation of scalar implicatures: Alternatives and relevance. Cognition, 153, 6–18. https://doi.org/10.1016/j.cognition.2016.04.006
 - Tieu, L., Romoli, J., Zhou, P., & Crain, S. (2015). Children’s Knowledge of Free Choice Inferences and Scalar Implicatures. Journal of Semantics, 33. https://doi.org/10.1093/jos/ffv001
+- Gotzner, N., Barner, D., & Crain, S. (2020). Disjunction Triggers Exhaustivity Implicatures in 4- to 5-Year-Olds: Investigating the Role of Access to Alternatives. Journal of Semantics, 37(2), 219–245. https://doi.org/10.1093/jos/ffz021
+- Grice, H. P. (1975). Logic and Conversation. Speech Acts, 41–58. https://doi.org/10.1163/9789004368811_003
 
 
 <h3> <span style="color: #3498DB ;">Processing scalar implicature </span> </h3>
