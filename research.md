@@ -10,6 +10,7 @@ For my _Ph.D._ _dissertation_, I am looking into Bengali children's comprehensio
 - Chierchia, G., Crain, S., Guasti, M. T., Gualmini, A., & Meroni, L. (2001). The Acquisition of Disjunction: Evidence for a Grammatical View of Scalar Implicatures. 25th Proceedings of the Annual Boston University Conference on Language Development, 25(1), 157–168
 - Guasti, M. T., Chierchia, G., Crain, S., Foppolo, F., Gualmini, A., & Meroni, L. (2005). Why children and adults sometimes (but not always) compute implicatures. Language and Cognitive Processes, 20(5), 667–696. https://doi.org/10.1080/01690960444000250
 - Papafragou, A., & Musolino, J. (2003). Scalar implicatures: Experiments at the semantics-pragmatics interface. Cognition, 86(3), 253–282. https://doi.org/10.1016/s0010-0277(02)00179-8
+- Papafragou, A., & Tantalou, N. (2004). Children’s Computation of Implicatures. Language Acquisition: A Journal of Developmental Linguistics, 12(1), 71–82. https://doi.org/10.1207/s15327817la1201_3
 - Skordos, D., & Papafragou, A. (2016). Children’s derivation of scalar implicatures: Alternatives and relevance. Cognition, 153, 6–18. https://doi.org/10.1016/j.cognition.2016.04.006
 - Tieu, L., Romoli, J., Zhou, P., & Crain, S. (2015). Children’s Knowledge of Free Choice Inferences and Scalar Implicatures. Journal of Semantics, 33. https://doi.org/10.1093/jos/ffv001
 - Noveck, I. A. (2001). When children are more logical than adults: Experimental investigations of scalar implicature. Cognition, 78(2), 165–188. https://doi.org/10.1016/s0010-0277(00)00114-1 
