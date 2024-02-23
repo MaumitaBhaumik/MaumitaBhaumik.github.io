@@ -15,7 +15,7 @@ For my _Ph.D._ _dissertation_, I am looking into Bengali children's comprehensio
 - Tieu, L., Romoli, J., Zhou, P., & Crain, S. (2015). Children’s Knowledge of Free Choice Inferences and Scalar Implicatures. Journal of Semantics, 33. https://doi.org/10.1093/jos/ffv001
 - Noveck, I. A. (2001). When children are more logical than adults: Experimental investigations of scalar implicature. Cognition, 78(2), 165–188. https://doi.org/10.1016/s0010-0277(00)00114-1 
 
- &nbsp;  
+ &nbsp;    
 
 <h3> <span style="color: #3498DB ;">Processing scalar implicature </span> </h3> 
 In this project, I am exploring implicature processing in adults. My interest is to figure out whether implicature derivation is cognitively costly. I hypothesize that the effort for processing scalar implicature is the same as the computation of the logical meaning. It is because every meaning - be it lower-bounded (logical) or upper-bounded (implicature) - is not removed from context, and contextual information is not actively sought by a listener; rather it is a given as a cognitive environment. Please have a look at the following list to get an idea of the scope of the research. 
@@ -27,7 +27,7 @@ In this project, I am exploring implicature processing in adults. My interest is
 - Sperber, D., & Wilson, D. (1995). Relevance: Communication and cognition, 2nd ed (pp. viii, 326). Blackwell Publishing.
 
 
-
+ &nbsp;    
 
 
 
