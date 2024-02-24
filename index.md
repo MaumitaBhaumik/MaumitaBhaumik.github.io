@@ -14,7 +14,6 @@ Hello! I am a fifth year Ph.D. student in the Department of Linguistics and Cont
 My research focuses on children's acquisition of language with special attention to their comprehension of meaning in verbal communication. However, my interest is not limited to studying children. I am equally intrigued by the study of meaning comprehension in grown adults. The intricate interplay between semantics and pragmatics in meaning decoding is fascinating to me! I study the comprehension of ubiquitous logical words, such as connectives (_and, or, if-then_) and quantifiers (_some, all, every_), and I use experimental methods to study their comprehension. 
 
 Logical expressions are very common in our everyday language, and yet we know very little about how they are understood and which factors play a role in their comprehension. Many ambiguities are yet to be resolved. I study logical expressions because they provide us with a window into the complex relationship between language and general human cognition. I am also interested in exploring how language and general cognitive faculties aid each other in their development in children. Particularly, the relation between pragmatic meaning comprehension and the human ability of theory of mind delights me very much. 
-
 I have experience using behavioral techniques for my studies, and I am keen on learning to use more advanced techniques.  
 
 When I am not working, I like to spread some acrylic on a canvas or cook some Bibimbap and enjoy slice-of-life anime!  
