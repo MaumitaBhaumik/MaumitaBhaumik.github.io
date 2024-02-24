@@ -3,7 +3,7 @@ layout: page
 title: "Blog"
 ---
 
-page under construction...
+<small> page under construction... </small>
 
 
  &nbsp;    
