@@ -17,6 +17,8 @@ Logical expressions are very common in our everyday language, and yet we know ve
 
 I have experience using behavioral techniques for my studies, and I am keen on learning to use more advanced techniques.  
 
- &nbsp;  
+&nbsp;  
+
+&nbsp;  
  
 This website is new, and I am still building it. You can view my CV in the CV section above. I hope you will be able to see a better version of this website very soon! 
