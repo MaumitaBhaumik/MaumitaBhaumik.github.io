@@ -3,15 +3,14 @@ layout: page
 title: "Blog"
 ---
 
-<small> page under construction... </small>
-
+page under construction...
 
  &nbsp;    
 
 <html>
   <body>
     <img width="400" height="550" src="/2021_lockdown.JPG" alt="painting1"> 
-    <figcaption align = "left"><span style="font-size:0.9em;">[Sage green-yellow ochre-black-white 🎨]</span></figcaption>
+    <figcaption align = "left"><span style="font-size:1.2em;">[Sage green • yellow ochre • black • white 🎨🖌]</span></figcaption>
   </body>
 </html> 
 
@@ -19,4 +18,4 @@ title: "Blog"
 
  &nbsp;    
 
- &nbsp;    
+ &nbsp;   
