@@ -17,6 +17,8 @@ Logical expressions are very common in our everyday language, and yet we know ve
 
 I have experience using behavioral techniques for my studies, and I am keen on learning to use more advanced techniques.  
 
+When I am not working, I like to spread some acrylic on a canvas or cook some Bibimbap and enjoy slice-of-life anime!  
+
 &nbsp;  
 
 &nbsp;  
