@@ -14,7 +14,11 @@ For my _Ph.D._ _dissertation_, I am looking into Bengali children's comprehensio
 - Papafragou, A., & Musolino, J. (2003). Scalar implicatures: Experiments at the semantics-pragmatics interface. Cognition, 86(3), 253–282. https://doi.org/10.1016/s0010-0277(02)00179-8
 - Skordos, D., & Papafragou, A. (2016). Children’s derivation of scalar implicatures: Alternatives and relevance. Cognition, 153, 6–18. https://doi.org/10.1016/j.cognition.2016.04.006
 - Tieu, L., Romoli, J., Zhou, P., & Crain, S. (2015). Children’s Knowledge of Free Choice Inferences and Scalar Implicatures. Journal of Semantics, 33. https://doi.org/10.1093/jos/ffv001
-- Noveck, I. A. (2001). When children are more logical than adults: Experimental investigations of scalar implicature. Cognition, 78(2), 165–188. https://doi.org/10.1016/s0010-0277(00)00114-1 
+- Noveck, I. A. (2001). When children are more logical than adults: Experimental investigations of scalar implicature. Cognition, 78(2), 165–188. https://doi.org/10.1016/s0010-0277(00)00114-1
+
+<h4> <span style="color: #3498DB ;">Output so far: </span> </h4> 
+- Work presented at the 4th South Asian Forum on the Acquisition and Processing of Language (SAFAL), Indian Institute of Technology, Kanpur, India, December 8, 2023.
+- Work presented at the 12th Annual Budapest CEU Conference on Cognitive Development(BCCCD), Hungary, January10-14, 2023.
 
  &nbsp;    
 
@@ -25,7 +29,10 @@ In this project, I am exploring implicature processing in adults. My interest is
 - Degen, J., & Tanenhaus, M.K. (2015). Processing scalar implicature: A constraint-based approach. Cognitive science, 39(4), 667 710.https://doi.org/10.1111/cogs.12171
 - Huang, Y.T., & Snedeker, J. (2009). Online interpretation of scalar quantifiers: Insight into the semantics-pragmatics interface. Cognitive Psychology, 58, 376–415. https://doi.org/10.1016/j.cogpsych.2008.09.001
 - Politzer-Ahles, S., & Fiorentino, R. (2013). The realization of scalar inferences: Context sensitivity without processing cost. PloS One, 8(5), e63943. https://doi.org/10.1371/journal.pone.0063943
-- Sperber, D., & Wilson, D. (1995). Relevance: Communication and cognition, 2nd ed (pp. viii, 326). Blackwell Publishing.
+- Sperber, D., & Wilson, D. (1995). Relevance: Communication and cognition, 2nd ed (pp. viii, 326). Blackwell Publishing. 
+
+<h4> <span style="color: #3498DB ;">Output so far: </span> </h4> 
+- Work presented at the CogLingDays 2022, Belgium-Netherlands Cognitive Linguistics Association (BeNeCLA), Tilburg, the Netherlands, December 8-9, 2022.
 
 
  &nbsp;    
