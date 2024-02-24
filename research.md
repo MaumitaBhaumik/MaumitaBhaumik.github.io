@@ -20,7 +20,10 @@ For my _Ph.D._ _dissertation_, I am looking into Bengali children's comprehensio
 - Presented at the _4th South Asian Forum on the Acquisition and Processing of Language (SAFAL)_, Indian Institute of Technology, Kanpur, India, December 8, 2023.
 - Presented at the _12th Annual Budapest CEU Conference on Cognitive Development (BCCCD)_, Central European University, Budapest, Hungary, January10-14, 2022.
 
+
  &nbsp;    
+
+ 
 <h2> <span style="color: #3498DB ;">Processing scalar implicature </span> </h2> 
 In this project, I am exploring implicature processing in adults. My interest is to figure out whether implicature derivation is cognitively costly. I hypothesize that the effort for processing scalar implicature is the same as the computation of the logical meaning. It is because every meaning - be it lower-bounded (logical) or upper-bounded (implicature) - is not removed from context, and contextual information is not necessarily actively sought by a listener; rather it is given as a cognitive environment. Please have a look at the following list to get an idea of the scope of the research. 
 - Bott, L., & Noveck, I.A. (2004). Some utterances are underinformative: The onset and time course of scalar inferences. Journal of Memory and Language, 51(3):437–457. https://doi.org/10.1016/j.jml.2004.05.006
@@ -35,7 +38,6 @@ In this project, I am exploring implicature processing in adults. My interest is
 
 
  &nbsp;    
-
 
 
 <h2> <span style="color: #3498DB ;">Disjunction expressions in Indian languages: Usage of conditional morphemes </span> </h2>
