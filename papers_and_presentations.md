@@ -8,9 +8,7 @@ title: Papers
 <h3> <span style="color: #3498DB ;">Publications </span> </h3> 
 - **Bhaumik, M.** (under review). Bengali children’s comprehension of linguistic disjunction: Access to the alternative. 2024  
 
-
  &nbsp;    
-
 <h3> <span style="color: #3498DB ;">Presentations </span> </h3> 
 - **Bhaumik, M.** (2023). Disjunction comprehension in preschool children: Does access to alternative help in implicature derivation? _4th South Asian Forum on the Acquisition and Processing of Language (SAFAL)_, Indian Institute of Technology, Kanpur, India, December 8.  
 - **Bhaumik, M.** (2022). Pragmatic inference is as immediate as literal interpretation: Importance of context and communicative intent. _CogLingDays2022, Belgium-Netherlands Cognitive Linguistics Association (BeNeCLA)_, Tilburg University, Tilburg, the Netherlands, December 8-9.   
@@ -19,9 +17,7 @@ title: Papers
 - **Bhaumik, M.** (2019). The Segmental Phonology of Khasi. _Conference on Indigenous Languages (COIL-1)_. Department of Humanities and Social Sciences, IIT Patna, India, February 21-23. 
 - **Bhaumik, M.** (2018). The Cultural and Typological Challenge to Translation. _International Conference on Translation and Knowledge Society_. National Translation Mission, Central Institute of Indian Languages (CIIL), Mysore, India, March 7-9. 
 
-
  &nbsp;    
-
 <h3> <span style="color: #3498DB ;">Invited talks </span> </h3> 
 - **Bhaumik, M.** (2023). Pragmatic acquisition: Do children read between the lines? _An orientation program on research in Linguistics_. School of Language Sciences, The English and Foreign Languages University, Hyderabad, India, August 21-29.
 
