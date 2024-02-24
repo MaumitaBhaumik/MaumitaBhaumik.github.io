@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Bits-and-pieces"
+title: "Bits & pieces!"
 ---
 
 page under construction...
