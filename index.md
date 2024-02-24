@@ -22,4 +22,4 @@ When I am not working, I like to spread some acrylic on a canvas or cook some Bi
 
 &nbsp;  
  
-This website is new, and I am still building it. You can view my CV in the CV section above. I hope you will be able to see a better version of this website very soon! 
+<small>This website is new, and I am still building it. You can view my CV in the CV section above. I hope you will be able to see a better version of this website very soon! </small>
