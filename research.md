@@ -18,7 +18,7 @@ For my _Ph.D._ _dissertation_, I am looking into Bengali children's comprehensio
 
 <h4> <span style="color: #3498DB ;">Results thus far: </span> </h4> 
 - Presented at the 4th South Asian Forum on the Acquisition and Processing of Language (SAFAL), Indian Institute of Technology, Kanpur, India, December 8, 2023.
-- Presented at the 12th Annual Budapest CEU Conference on Cognitive Development(BCCCD), Hungary, January10-14, 2023.
+- Presented at the 12th Annual Budapest CEU Conference on Cognitive Development(BCCCD), Hungary, January10-14, 2022.
 
  &nbsp;    
 
