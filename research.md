@@ -45,9 +45,8 @@ This project aims to capture the nature of disjunction words used in the languag
 
 I aim to investigate why there is more than one expression for disjunction in these languages, which is not very common in other languages, and how these expressions are used in these languages - especially what significance the 'if-not' construction holds in these languages. My greater objective is to see how the information can feed/counter the existing theories about the human language faculty. 
 
- &nbsp;    
+&nbsp;    
 
-# <h2> <span style="color: #3498DB ;">How syntactic construction interacts with disjunction interpretation? </span> </h2>
 
 &nbsp;    
 
