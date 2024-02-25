@@ -47,9 +47,13 @@ I aim to investigate why there is more than one expression for disjunction in th
 
  &nbsp;    
 
-<h2> <span style="color: #3498DB ;">How syntactic construction interacts with disjunction interpretation? </span> </h2>
+# <h2> <span style="color: #3498DB ;">How syntactic construction interacts with disjunction interpretation? </span> </h2>
 
-&nbsp;
+&nbsp;    
+
+&nbsp;    
+
+&nbsp;    
 
 
 
