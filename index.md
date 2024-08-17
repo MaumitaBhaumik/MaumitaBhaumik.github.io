@@ -20,7 +20,7 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 
 &nbsp;  
 
-Updates! 
+<h2> <span style="color: #3498DB ;">Updates!</span> </h2> 
 
 - Poster selected for the 49th Annual Boston University Conference on Language Development (BUCLD-49), Boston University, Boston, Massachusetts, USA. November 7-10, 2024.
 - Selected for the AMPRA Graduate Student Travel Award.
