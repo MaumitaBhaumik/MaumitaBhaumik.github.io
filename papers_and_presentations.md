@@ -11,7 +11,7 @@ title: Papers
  &nbsp;    
 <h3> <span style="color: #3498DB ;">Conference presentations </span> </h3> 
 
-- Disjunction comprehension in preschool children: Does access to alternative help in implicature derivation? _4th South Asian Forum on the Acquisition and Processing of Language (SAFAL)_, Indian Institute of Technology, Kanpur, India, December 8, 2023. <br> <br>  [Paper]
+- Disjunction comprehension in preschool children: Does access to alternative help in implicature derivation? _4th South Asian Forum on the Acquisition and Processing of Language (SAFAL)_, Indian Institute of Technology, Kanpur, India, December 8, 2023.   [Paper]
 
 - Pragmatic inference is as immediate as literal interpretation: Importance of context and communicative intent. _CogLingDays2022, Belgium-Netherlands Cognitive Linguistics Association (BeNeCLA)_, Tilburg University, Tilburg, the Netherlands, December 8-9, 2022.   [Paper]
 
