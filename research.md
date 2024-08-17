@@ -17,6 +17,7 @@ For my _Ph.D._ _dissertation_, I am looking into Bengali children's comprehensio
 - Noveck, I. A. (2001). When children are more logical than adults: Experimental investigations of scalar implicature. Cognition, 78(2), 165–188. https://doi.org/10.1016/s0010-0277(00)00114-1
 
 <h4> <span style="color: #3498DB ;">Results thus far: </span> </h4> 
+- Presented at the _40th Northwest Linguistics Conference (NWLC 2024)_, University of Washington, Seattle, Washington, May 4-5, 2024
 - Presented at the _4th South Asian Forum on the Acquisition and Processing of Language (SAFAL)_, Indian Institute of Technology, Kanpur, India, December 8, 2023.
 - Presented at the _12th Annual Budapest CEU Conference on Cognitive Development (BCCCD)_, Central European University, Budapest, Hungary,  January 10-14, 2022.
 
