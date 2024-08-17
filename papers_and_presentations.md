@@ -6,7 +6,7 @@ title: Papers
  &nbsp;  
  
 <h3> <span style="color: #3498DB ;">Peer-reviewed publications </span> </h3> 
-- **Bhaumik, M.** (under review). Bengali children’s comprehension of linguistic disjunction: Access to the alternative. 2024  
+- Bengali children’s comprehension of linguistic disjunction: Access to the alternative. 2024  [under review]
 
  &nbsp;    
 <h3> <span style="color: #3498DB ;">Conference presentations </span> </h3> 
@@ -17,7 +17,7 @@ title: Papers
 
  &nbsp;    
 <h3> <span style="color: #3498DB ;">Invited talks </span> </h3> 
-- **Bhaumik, M.** (2023). Pragmatic acquisition: Do children read between the lines? _An orientation program on research in Linguistics_. School of Language Sciences, The English and Foreign Languages University, Hyderabad, India, August 21-29.
+- Pragmatic acquisition: Do children read between the lines? _An orientation program on research in Linguistics_. School of Language Sciences, The English and Foreign Languages University, Hyderabad, India, August 21-29, 2023. 
 
 
 
