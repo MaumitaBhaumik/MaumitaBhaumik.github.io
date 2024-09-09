@@ -22,6 +22,8 @@ When I am not working, I like to paint, arrange dry flowers, or cook some Bibimb
 
 <h2> <span style="color: #3498DB ;">Updates!</span> </h2> 
 
+- Poster selected for _AMLaP Asia 2024_.
+
 - Poster selected for the _49th Annual Boston University Conference on Language Development (BUCLD-49)_, November 7-10, 2024. 
 
 - I have been selected for the _AMPRA Graduate Student Travel Award_, 2024.
