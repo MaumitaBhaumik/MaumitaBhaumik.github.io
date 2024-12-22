@@ -6,7 +6,7 @@ title: Papers
  &nbsp;  
  
 <h3> <span style="color: #3498DB ;">Peer-reviewed publications </span> </h3> 
-- Bengali children’s comprehension of linguistic disjunction: Access to the alternative. 2024  [under review]
+- Bengali children’s comprehension of linguistic disjunction: Access to the alternative.  [under revision]
 
  &nbsp;    
 <h3> <span style="color: #3498DB ;">Conference presentations </span> </h3> 
